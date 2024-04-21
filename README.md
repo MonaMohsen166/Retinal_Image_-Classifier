@@ -13,30 +13,45 @@ Three class retinal image classification: Normal, Drusen, and Exudate retinal fu
   
 Why CNN better than BoVW?
 <ul>
-Detect patterns better
-Can detect complex pattern
-Reduce image weight
+<li>Detect patterns better</li>
+<li>Can detect complex pattern</li>
+<li>Reduce image weight</li>
 </ul>
 <br>
 Steps of CNN Deep Retinal Classification:
+<br>
 1-Train
+<br>
 2-Feature Extraction
+<br>
 3-Feature Classification
+<br>
 4-Results Analysis using metrics like:AUC,F1 Score,Precision,Sensitivity,Specificity and Accuracy.
+<br>
 </p>
 <h2>GUI Output:</h2>
+<br>
  <p>
-   ![image](https://github.com/MonaMohsen166/Retinal_Image_-Classifier/assets/73717585/62690af6-6991-41c3-976e-c694e580cd5d)
+    ![image](https://github.com/MonaMohsen166/Retinal_Image_-Classifier/assets/73717585/616cc79b-e63c-40b4-9780-7d8e049cd881)
+
 
  </p>
 <br>
+<br>
 <h2>Results:</h2>
+<br>
 <p>
 AUC: 0.84
+  <br>
 F1 Score: Drusen=0.80, Exudate:0.83 and Normal:0.91
+  <br>
 Precision: Drusen=0.89, Exudate:0.77 and Normal:0.91
+  <br>
 Sensitivity: Drusen=0.73, Exudate:0.91 and Normal:0.91
+  <br>
 Specificity: Drusen=0.95, Exudate:0.86 and Normal:0.95
+  <br>
 Accuracy: 0.85
+<br>
 </p>
   
