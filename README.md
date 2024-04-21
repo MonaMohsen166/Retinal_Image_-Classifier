@@ -34,6 +34,7 @@ Steps of CNN Deep Retinal Classification:
  <p>
     ![image](https://github.com/MonaMohsen166/Retinal_Image_-Classifier/assets/73717585/616cc79b-e63c-40b4-9780-7d8e049cd881)
 
+![image](https://github.com/MonaMohsen166/Retinal_Image_-Classifier/assets/73717585/8bff8731-0106-4b67-977b-5defcff521cf)
 
  </p>
 <br>
