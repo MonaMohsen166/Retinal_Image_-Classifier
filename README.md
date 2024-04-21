@@ -1,4 +1,4 @@
-# Retinal_Image_-Classifier
+# Retinal_Image_Classifier
 Three class retinal image classification: Normal, Drusen, and Exudate retinal fundus.
 <h1>Project description
 </h1>
