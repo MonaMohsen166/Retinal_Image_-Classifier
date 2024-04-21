@@ -6,7 +6,7 @@ Three class retinal image classification: Normal, Drusen, and Exudate retinal fu
 </h2>
 <p>Diabetic Retinopathy (DR) is a significant concern due to its potential to cause preventable blindness, primarily characterized by damage to the blood vessels at the back of the retina, with three classifications based on retinal image features: drusen and hard exudate as yellowish white deposits, and soft exudate manifesting as cotton wool spots. Early detection and diagnosis are crucial in managing this condition, alongside heightened awareness of its link to Age-Related Macular Degeneration (ARMD).</p>
 <h2>Methodology</h2>
-<p><img width="1440" alt="image" src="https://github.com/MonaMohsen166/Retinal_Image_-Classifier/assets/73717585/426d1347-98bb-41a3-9f51-f1daafa633db">
+<p><img width="1440" alt="image" src="https://github.com/MonaMohsen166/Retinal_Image_Classifier/assets/73717585/426d1347-98bb-41a3-9f51-f1daafa633db">
 </p>
 <p>As depicted, two approaches were put forth: Bag of Visual Words (BoVW) and Convolutional Neural Networks (CNN).
   However, it was demonstrated that CNN emerged as the superior method.
