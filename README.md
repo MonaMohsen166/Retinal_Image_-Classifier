@@ -20,13 +20,13 @@ Why CNN better than BoVW?
 <br>
 Steps of CNN Deep Retinal Classification:
 <br>
-1-Train
+ 1-Train
 <br>
-2-Feature Extraction
+ 2-Feature Extraction
 <br>
-3-Feature Classification
+ 3-Feature Classification
 <br>
-4-Results Analysis using metrics like:AUC,F1 Score,Precision,Sensitivity,Specificity and Accuracy.
+ 4-Results Analysis using metrics like:AUC,F1 Score,Precision,Sensitivity,Specificity and Accuracy.
 <br>
 </p>
 <h2>GUI Output:</h2>
